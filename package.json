@@ -16,17 +16,3 @@
     "node": ">=18.0.0"
   }
 }
-```
-
-4. 「**Commit changes**」→「**Commit changes**」
-
----
-
-### 次に server.js を新規作成
-
-リポジトリトップに戻り：
-「**Add file**」→「**Create new file**」
-
-ファイル名：
-```
-server.js
